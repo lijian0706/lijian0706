@@ -4,7 +4,6 @@
 
 Hi, I'm Lijian.<br>
 ...<br>
-That's all, Thank You!<br>
 
 
 <!--
